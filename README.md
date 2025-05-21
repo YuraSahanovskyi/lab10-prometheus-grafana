@@ -1,3 +1,6 @@
+Lab 10: Prometheus + Grafana
+Based on https://github.com/alexzhyshko/PrometheusLab
+
 NOTE: Is is slightly modified version of original repository: https://github.com/vtatarin/prometheus-lab
 All copyrights belong to the author of original version
 
